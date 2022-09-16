@@ -1,0 +1,12 @@
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AdminLTE-MVC-Template\AronTec-AdminLTE\AronTec.AdminLTE.Presentation\bin\Debug\net6.0\AronTec.AdminLTE.Presentation.deps.json
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AdminLTE-MVC-Template\AronTec-AdminLTE\AronTec.AdminLTE.Presentation\bin\Debug\net6.0\AronTec.AdminLTE.Presentation.dll
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AdminLTE-MVC-Template\AronTec-AdminLTE\AronTec.AdminLTE.Presentation\bin\Debug\net6.0\AronTec.AdminLTE.Presentation.pdb
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AdminLTE-MVC-Template\AronTec-AdminLTE\AronTec.AdminLTE.Presentation\obj\Debug\net6.0\AronTec.AdminLTE.Presentation.csproj.AssemblyReference.cache
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AdminLTE-MVC-Template\AronTec-AdminLTE\AronTec.AdminLTE.Presentation\obj\Debug\net6.0\AronTec.AdminLTE.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AdminLTE-MVC-Template\AronTec-AdminLTE\AronTec.AdminLTE.Presentation\obj\Debug\net6.0\AronTec.AdminLTE.Presentation.AssemblyInfoInputs.cache
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AdminLTE-MVC-Template\AronTec-AdminLTE\AronTec.AdminLTE.Presentation\obj\Debug\net6.0\AronTec.AdminLTE.Presentation.AssemblyInfo.cs
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AdminLTE-MVC-Template\AronTec-AdminLTE\AronTec.AdminLTE.Presentation\obj\Debug\net6.0\AronTec.AdminLTE.Presentation.csproj.CoreCompileInputs.cache
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AdminLTE-MVC-Template\AronTec-AdminLTE\AronTec.AdminLTE.Presentation\obj\Debug\net6.0\AronTec.AdminLTE.Presentation.dll
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AdminLTE-MVC-Template\AronTec-AdminLTE\AronTec.AdminLTE.Presentation\obj\Debug\net6.0\refint\AronTec.AdminLTE.Presentation.dll
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AdminLTE-MVC-Template\AronTec-AdminLTE\AronTec.AdminLTE.Presentation\obj\Debug\net6.0\AronTec.AdminLTE.Presentation.pdb
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AdminLTE-MVC-Template\AronTec-AdminLTE\AronTec.AdminLTE.Presentation\obj\Debug\net6.0\ref\AronTec.AdminLTE.Presentation.dll
